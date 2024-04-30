@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there. 👋
+#### Welcome to my secret lair. 🌋
+#### It's very secure. 🔐🚨🪬
 <!--
 **RadiantBrandon/RadiantBrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
